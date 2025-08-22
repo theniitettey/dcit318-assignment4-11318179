@@ -1,0 +1,32 @@
+# Visual Studio build output
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# NuGet Packages
+packages/
+
+# AppData
+AppData/
+
+# Build logs
+*.log
+
+# Windows image file caches
+Thumbs.db
+
+# SQL Server Data Tools
+*.dbmdl
+
+# VS Code
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Exclude .resx files only if custom/user-specific (optional, comment out if needed)
+*.resx
